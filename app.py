@@ -38,9 +38,9 @@ def upload():
 
         prediction = predict(curr_text,lr,sgd)
         if(prediction["prediction"]=="bad"):
-            answer = "There's a high chance that the text is abusive"
+            answer = "{}: There's a high chance that the text is abusive".format(curr_text)
         else:
-            answer = "The Text Seems fine:)"
+            answer = "{}: The Text Seems fine:)".format(curr_text)
         
         return answer
 
