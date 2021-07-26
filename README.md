@@ -13,8 +13,10 @@
 ## The output
 - The API Page
 <img src="https://github.com/reekithak/Abusive-Text-Hatespeech-Detection/blob/main/images/1..JPG">
+
 - Test 1
 <img src="https://github.com/reekithak/Abusive-Text-Hatespeech-Detection/blob/main/images/2..JPG">
+
 - Test 2
 <img src="https://github.com/reekithak/Abusive-Text-Hatespeech-Detection/blob/main/images/3..JPG">
 
